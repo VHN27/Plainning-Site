@@ -17,7 +17,7 @@ Hi there! Welcome to **Planny**, a web-based meeting planner. Thanks for taking 
 
 ## 🛠️ Installation
 
-> ⚠️ Make sure you have Node.js and PostgreSQL installed.
->  **npm install** (in the root)
->  Start the server: node server.js
-> Open your browser and visit: http://localhost:5000
+* ⚠️ Make sure you have Node.js and PostgreSQL installed.
+*  **npm install** (in the root)
+*  Start the server: node server.js
+* Open your browser and visit: http://localhost:5000
